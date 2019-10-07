@@ -1,0 +1,17 @@
+site: https://rahulshettyacademy.com/seleniumPractise/#/
+
+site: https://rahulshettyacademy.com/AutomationPractice/
+
+id          tagname#idname
+classname   .classname
+tagname[attribute=value]  ---> input[type='search]
+parent child (use space between)   form input
+
+{
+  "projectId": "ca85zi"
+}
+
+cypress run --record --key af1e5197-c6f0-4b53-9e89-9ba135ba727f
+
+to start jenkins:
+java -jar jenkins.war -httpPort=9090
